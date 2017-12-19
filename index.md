@@ -2,122 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About
 
-[Link to another page](another-page).
+*Bloomington Neighborhood Orchards* is planning the planting and maintenance of hundreds of native fruit-bearing trees and bushes in the yards and public spaces of four west-side neighborhoods.  Plants will be available for free to neighborhood landowners who [register](/register/).  Pickup will be available during your neighborhood’s planting day at these locations:
 
-There should be whitespace between paragraphs.
+ - Waterman (scrollover shows map) -- 4/20/18 -- Avalon Community Garden (W 8th & Hopewell)
+ - Crestmont (scrollover shows map ) -- 4/21/18 -- ?
+ - Trailview (scrollover shows map -- still looking for good map) -- 4/27/18 -- ?
+ - Maple Heights (scrollover shows map) -- 4/28/17 -- The Overlook (611 W. 12th St)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Tree Pickup
 
-# [](#header-1)Header 1
+On the planting days listed above, neighbors will be able to pick up and plant their trees, with help and advice from volunteers.  Free bulk mulch and soil amendments will be available.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Plant Swap
 
-## [](#header-2)Header 2
+Planting days will feature a plant swap, where neighbors are encouraged to bring starts, divisions and seeds of garden or house plants that they would like to share.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Get Involved
 
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+To sign up for plants -- [click here](/register/).
+This is an all volunteer effort led by landowners in west-side neighborhoods // if you might be interested in helping us reach out to neighbors, leading a team on planting day, teaching a workshop, or lending a hand in other ways, you can reach us at contact@bnorchards.com (not a real email yet).
+If you are interested in donating plants or other resources, you can reach us at sponsorshop@bnorchards.com (not a real email yet)
